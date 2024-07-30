@@ -1,0 +1,119 @@
+
+.bg-container{
+    background-color:#1b184a;
+    background-size:cover;
+    height:280px;
+}
+#icon{
+    color:white;
+    font-weight:800;
+    padding-left:30px;
+}
+#navlink1{
+    color:#c2bef8;
+    font-weight:bold;
+    padding-left:40px;
+}
+#navlink2{
+    color:white;
+    font-weight:bold;
+    padding-left:40px;
+}
+.btn{
+    width:115px;
+    background-color:#746bf3;
+    color:white;
+    margin-left:20px;
+}
+.name{
+    color:#e1cbd7;
+    font-size:50px;
+    font: weight 700px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h1{
+    color:#e1cbd7;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:30px;
+}
+p{
+    color:#89a2bd;
+    font-size:20px;
+    font-family:sans-serif;
+    padding-top:5px;
+}
+.web{
+    color:lightgrey;
+}
+.image{
+    height:230px;
+    margin-bottom:150px;
+    margin-left:300px;
+    border-radius:180px;
+}
+.bg-container2{
+    background-color:#e1cbd7;
+    background-size:cover;
+    height:70vh;
+}
+.image2{
+    height:350px;
+    margin-top:40px;
+    border-radius:10px;
+}
+.heading{
+    color:#1b184a;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p1{
+    color:rgb(69, 1, 23);
+}
+.bg-container3{
+    background-color:#c38eb4;
+    background-size:cover;
+    height:40vh;
+}
+.bg-container4{
+    background-color:#b5c4ec;
+    background-size:cover;
+    height:75vh;
+}
+.bg-con1{
+    background-color:white;
+    border-radius:30px;
+    width:100%;
+    height:400px;
+}
+.project1{
+       width:100%;
+       border-top-left-radius:30px;
+       border-top-right-radius:30px;
+}
+.bg-container5{
+    background-color:#26425a;
+    background-size:cover;
+    height:20vh;
+}
+.footer-heading{
+    color:white;
+    font-size:30px;
+}
+.copy{
+    color:rgb(169, 166, 166);
+}
+.icon{
+    font-size:30px;
+    color:#a5a1d8;
+}
+
+.head{
+    color:#c38eb4;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:25px;
+}
+.para{
+    color:#89a2bd;
+    font-size:20px;
+    font-family:sans-serif;
+    padding-top:5px;
+}
